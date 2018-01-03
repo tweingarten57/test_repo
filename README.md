@@ -12,8 +12,6 @@ MORE INFORMATION AVAILABLE UPON REQUEST.
 
 ### Prerequisites
 
-What things you need to install the software and how to install them
-
 ```
 pip install -r requirements.txt
 ```
